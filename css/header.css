@@ -1,0 +1,16 @@
+/* <style> */
+    .header{
+        margin:0 auto;
+        margin-top:20px;
+        width: 90%;
+        display:flex;
+        justify-content:space-between;
+        align-items: center;
+    }
+    .left{
+        width:50%;
+    }
+    .logo{
+        width:100%;
+    }
+/* </style> */
