@@ -1,11 +1,12 @@
 <div class="header">
     <div class="left">
-        <img class="logo" src="./images/logo_black.png" alt="">
+        <img class="logo" src="./images/logo_black.png" alt="赣州市国有资产投资集团有限公司">
     </div>
     <div class="right">
         <div class="searchcontainer">
             <input  />
-            <img src="./images/" alt="">
+            <!-- <img src="./images/" alt=""> -->
+            <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
         </div>
     </div>
 </div>
